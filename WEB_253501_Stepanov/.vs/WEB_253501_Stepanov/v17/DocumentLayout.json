@@ -1,0 +1,508 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\web_253501_stepanov.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\web_253501_stepanov.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343CF9B3-FA9F-443D-BAB2-9902136DE779}|WEB_253501_Stepanov.Domain\\WEB_253501_Stepanov.Domain.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.domain\\models\\productlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343CF9B3-FA9F-443D-BAB2-9902136DE779}|WEB_253501_Stepanov.Domain\\WEB_253501_Stepanov.Domain.csproj|solutionrelative:web_253501_stepanov.domain\\models\\productlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343CF9B3-FA9F-443D-BAB2-9902136DE779}|WEB_253501_Stepanov.Domain\\WEB_253501_Stepanov.Domain.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.domain\\models\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343CF9B3-FA9F-443D-BAB2-9902136DE779}|WEB_253501_Stepanov.Domain\\WEB_253501_Stepanov.Domain.csproj|solutionrelative:web_253501_stepanov.domain\\models\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343CF9B3-FA9F-443D-BAB2-9902136DE779}|WEB_253501_Stepanov.Domain\\WEB_253501_Stepanov.Domain.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.domain\\web_253501_stepanov.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{343CF9B3-FA9F-443D-BAB2-9902136DE779}|WEB_253501_Stepanov.Domain\\WEB_253501_Stepanov.Domain.csproj|solutionrelative:web_253501_stepanov.domain\\web_253501_stepanov.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343CF9B3-FA9F-443D-BAB2-9902136DE779}|WEB_253501_Stepanov.Domain\\WEB_253501_Stepanov.Domain.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343CF9B3-FA9F-443D-BAB2-9902136DE779}|WEB_253501_Stepanov.Domain\\WEB_253501_Stepanov.Domain.csproj|solutionrelative:web_253501_stepanov.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343CF9B3-FA9F-443D-BAB2-9902136DE779}|WEB_253501_Stepanov.Domain\\WEB_253501_Stepanov.Domain.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343CF9B3-FA9F-443D-BAB2-9902136DE779}|WEB_253501_Stepanov.Domain\\WEB_253501_Stepanov.Domain.csproj|solutionrelative:web_253501_stepanov.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\controllers\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\controllers\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\views\\shared\\_userinfopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\views\\shared\\_userinfopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\controllers\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\controllers\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\controllers\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\controllers\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\controllers\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\controllers\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\models\\listdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\models\\listdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|d:\\worktable\\bsuir\\sppr_sem5\\lab1-\\web_253501_stepanov\\web_253501_stepanov.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70420BB5-6B5A-48FD-81EC-34164B61B88A}|WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj|solutionrelative:web_253501_stepanov.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Program.cs",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\Program.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Program.cs",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:19:59.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HostingExtensions.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Extensions\\HostingExtensions.cs",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\Extensions\\HostingExtensions.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Extensions\\HostingExtensions.cs",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\Extensions\\HostingExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:19:26.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductListModel.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.Domain\\Models\\ProductListModel.cs",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.Domain\\Models\\ProductListModel.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.Domain\\Models\\ProductListModel.cs",
+              "RelativeToolTip": "WEB_253501_Stepanov.Domain\\Models\\ProductListModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:16:48.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResponseData.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.Domain\\Models\\ResponseData.cs",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.Domain\\Models\\ResponseData.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.Domain\\Models\\ResponseData.cs",
+              "RelativeToolTip": "WEB_253501_Stepanov.Domain\\Models\\ResponseData.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA5wCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:15:26.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WEB_253501_Stepanov.Domain",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.Domain\\WEB_253501_Stepanov.Domain.csproj",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.Domain\\WEB_253501_Stepanov.Domain.csproj",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.Domain\\WEB_253501_Stepanov.Domain.csproj",
+              "RelativeToolTip": "WEB_253501_Stepanov.Domain\\WEB_253501_Stepanov.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T02:14:05.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WEB_253501_Stepanov.UI",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\WEB_253501_Stepanov.UI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T02:11:23.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.Domain\\Entities\\Category.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "WEB_253501_Stepanov.Domain\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:08:57.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.Domain\\Entities\\Dish.cs",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.Domain\\Entities\\Dish.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.Domain\\Entities\\Dish.cs",
+              "RelativeToolTip": "WEB_253501_Stepanov.Domain\\Entities\\Dish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:04:41.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_UserInfoPartial.cshtml",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T17:25:50.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_MenuPartial.cshtml",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Views\\Shared\\_MenuPartial.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\Views\\Shared\\_MenuPartial.cshtml",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Views\\Shared\\_MenuPartial.cshtml",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\Views\\Shared\\_MenuPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T17:23:03.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Controllers\\Cart.cs",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\Controllers\\Cart.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Controllers\\Cart.cs",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\Controllers\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:25:24.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T01:59:05.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Controllers\\Product.cs",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\Controllers\\Product.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Controllers\\Product.cs",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\Controllers\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:24:36.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Controllers\\Account.cs",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\Controllers\\Account.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Controllers\\Account.cs",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\Controllers\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:25:48.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ListDemo.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Models\\ListDemo.cs",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\Models\\ListDemo.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Models\\ListDemo.cs",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\Models\\ListDemo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:57:17.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T09:07:44.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-19T02:12:08.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Controllers\\Home.cs",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\Controllers\\Home.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Controllers\\Home.cs",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\Controllers\\Home.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T01:58:19.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T02:03:27.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T01:59:09.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "bootstrap.min.css.map",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-19T02:12:21.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-19T02:15:37.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "jquery.js",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-19T02:16:19.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "jquery.min.js",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-19T02:16:22.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "bootstrap.bundle.js",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-19T02:17:21.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T01:56:57.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "libman.json",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\libman.json",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\libman.json",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\libman.json",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T01:56:02.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "WEB_253501_Stepanov.UI\\appsettings.json",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\sppr_sem5\\Lab1-\\WEB_253501_Stepanov\\WEB_253501_Stepanov.UI\\appsettings.json",
+              "RelativeToolTip": "WEB_253501_Stepanov.UI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T01:56:00.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

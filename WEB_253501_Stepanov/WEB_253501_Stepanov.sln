@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEB_253501_Stepanov.UI", "WEB_253501_Stepanov.UI\WEB_253501_Stepanov.UI.csproj", "{70420BB5-6B5A-48FD-81EC-34164B61B88A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{343CF9B3-FA9F-443D-BAB2-9902136DE779} = {343CF9B3-FA9F-443D-BAB2-9902136DE779}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEB_253501_Stepanov.Domain", "WEB_253501_Stepanov.Domain\WEB_253501_Stepanov.Domain.csproj", "{343CF9B3-FA9F-443D-BAB2-9902136DE779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70420BB5-6B5A-48FD-81EC-34164B61B88A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70420BB5-6B5A-48FD-81EC-34164B61B88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70420BB5-6B5A-48FD-81EC-34164B61B88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70420BB5-6B5A-48FD-81EC-34164B61B88A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{343CF9B3-FA9F-443D-BAB2-9902136DE779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343CF9B3-FA9F-443D-BAB2-9902136DE779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343CF9B3-FA9F-443D-BAB2-9902136DE779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343CF9B3-FA9F-443D-BAB2-9902136DE779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {923E1D8C-39C5-440B-9C30-27D2FAFC64A5}
+	EndGlobalSection
+EndGlobal
